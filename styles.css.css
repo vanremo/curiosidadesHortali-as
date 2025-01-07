@@ -1,0 +1,21 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+    color: black;
+    background-color: #fff;
+
+    
+}
+
+
+div {
+    text-align: justify;
+    p {
+        text-align: center; 
+     }
+
+     img  {
+        height:300px;
+        width: 300px;
+     }
+}
